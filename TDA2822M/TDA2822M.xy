@@ -1,0 +1,22 @@
+# PcbXY Version 1.0
+# Date: nie, 22 lis 2015, 22:49:54 UTC
+# Author: khazakar
+# Title: (unknown) - PCB X-Y
+# RefDes, Description, Value, X, Y, rotation, top/bottom
+# X,Y in mil.  rotation in degrees.
+# --------------------------------------------
+C2,"CAP100RP.fp","10uF",2505.26,4165.21,270,top
+R4,"RES400.fp","4.7",2800.24,3781.40,0,top
+C7,"CAP100.fp","100nF",2971.84,4017.57,270,top
+C5,"CAP200RP.fp","2200uF",3286.20,4459.74,270,top
+C4,"CAP200RP.fp","2200uF",3320.69,3844.68,0,top
+C3,"CAP100RP.fp","100uF",2871.76,4429.88,0,top
+R2,"RES400.fp","10K",1789.50,4511.02,180,top
+R1,"RES400.fp","10K",1720.14,4230.25,180,top
+U1,"DIP8.fp","unknown",2349.45,4554.19,180,top
+CN1,"CON__audio-3.5mm-stereo-jack-KOBICONN-161-3155","unknown",2293.38,3739.27,180,top
+CN2,"CON__audio-3.5mm-stereo-jack-KOBICONN-161-3155","unknown",1808.91,3731.54,180,top
+C1,"CAP100RP.fp","100uF",1428.01,3769.64,270,top
+K1,"H1x2-op","unknown",2790.00,4230.00,90,top
+R3,"RES400.fp","4.7",3619.99,4277.88,270,top
+C6,"CAP100.fp","100nF",3750.95,4210.69,90,top

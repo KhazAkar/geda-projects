@@ -1,0 +1,15 @@
+# PcbBOM Version 1.0
+# Date: nie, 22 lis 2015, 22:49:54 UTC
+# Author: khazakar
+# Title: (unknown) - PCB BOM
+# Quantity, Description, Value, RefDes
+# --------------------------------------------
+1,"CAP100RP.fp","10uF",C2 
+2,"RES400.fp","4.7",R4 R3 
+2,"CAP100.fp","100nF",C7 C6 
+2,"CAP200RP.fp","2200uF",C5 C4 
+2,"CAP100RP.fp","100uF",C3 C1 
+2,"RES400.fp","10K",R2 R1 
+1,"DIP8.fp","unknown",U1 
+2,"CON__audio-3.5mm-stereo-jack-KOBICONN-161-3155","unknown",CN1 CN2 
+1,"H1x2-op","unknown",K1 
