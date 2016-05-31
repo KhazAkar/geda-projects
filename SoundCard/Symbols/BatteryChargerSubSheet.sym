@@ -1,0 +1,19 @@
+v 20150930 2
+B 300 0 1800 1400 3 10 1 0 -1 -1 0 -1 -1 -1 -1 -1
+P 2400 800 2100 800 1 0 0
+{
+T 2300 850 5 10 0 0 0 6 1
+pintype=unknown
+T 2042 792 9 10 1 1 0 6 1
+pinlabel=SYSVIN
+T 2192 842 5 10 1 1 0 0 1
+pinnumber=1
+T 2300 850 5 10 0 0 0 6 1
+pinseq=0
+}
+T 0 1500 9 20 1 0 0 0 1
+Battery Charger
+T 1000 2600 8 10 0 1 0 0 1
+source=Charger.sch
+T 26 -5 8 10 0 1 0 0 1
+source=Charger.sch
