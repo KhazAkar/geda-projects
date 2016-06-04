@@ -1,22 +1,26 @@
 # PcbXY Version 1.0
-# Date: nie, 22 lis 2015, 22:49:54 UTC
-# Author: khazakar
+# Date: sob, 4 cze 2016, 21:00:52 UTC
+# Author: Damian Zaręba
 # Title: (unknown) - PCB X-Y
 # RefDes, Description, Value, X, Y, rotation, top/bottom
-# X,Y in mil.  rotation in degrees.
+# X,Y in mm.  rotation in degrees.
 # --------------------------------------------
-C2,"CAP100RP.fp","10uF",2505.26,4165.21,270,top
-R4,"RES400.fp","4.7",2800.24,3781.40,0,top
-C7,"CAP100.fp","100nF",2971.84,4017.57,270,top
-C5,"CAP200RP.fp","2200uF",3286.20,4459.74,270,top
-C4,"CAP200RP.fp","2200uF",3320.69,3844.68,0,top
-C3,"CAP100RP.fp","100uF",2871.76,4429.88,0,top
-R2,"RES400.fp","10K",1789.50,4511.02,180,top
-R1,"RES400.fp","10K",1720.14,4230.25,180,top
-U1,"DIP8.fp","unknown",2349.45,4554.19,180,top
-CN1,"CON__audio-3.5mm-stereo-jack-KOBICONN-161-3155","unknown",2293.38,3739.27,180,top
-CN2,"CON__audio-3.5mm-stereo-jack-KOBICONN-161-3155","unknown",1808.91,3731.54,180,top
-C1,"CAP100RP.fp","100uF",1428.01,3769.64,270,top
-K1,"H1x2-op","unknown",2790.00,4230.00,90,top
-R3,"RES400.fp","4.7",3619.99,4277.88,270,top
-C6,"CAP100.fp","100nF",3750.95,4210.69,90,top
+CN2,"1x03con","unknown",29.90,99.69,270,bottom
+CN1,"1x03con","unknown",5.98,105.27,180,bottom
+U1,"DIP8.fp","unknown",19.05,109.98,90,bottom
+R1,"RES400.fp","10K",12.83,99.18,270,bottom
+R2,"RES400.fp","10K",10.98,116.61,90,bottom
+C1,"CAP100RP.fp","100uF",20.73,95.51,0,bottom
+C3,"CAP100RP.fp","100uF",20.93,119.08,180,bottom
+C4,"CAP200RP.fp","2200uF",50.51,100.18,270,bottom
+C6,"CAP100.fp","100nF",40.68,94.26,270,bottom
+R3,"RES400.fp","4.7",38.70,89.74,0,bottom
+C5,"CAP200RP.fp","2200uF",39.60,109.32,270,bottom
+C7,"CAP100.fp","100nF",47.51,108.80,90,bottom
+R4,"RES400.fp","4.7",46.75,119.12,90,bottom
+C2,"CAP100RP.fp","10uF",29.57,110.54,90,bottom
+CON1,"1x02con","unknown",40.61,119.57,270,bottom
+hole_2mm,"hole_2mm","hole_2mm",1.27,125.73,0,bottom
+hole_2mm1,"hole_2mm","hole_2mm",1.27,87.38,0,bottom
+2,"hole_2mm","hole_2mm",57.15,87.38,0,bottom
+3,"hole_2mm","hole_2mm",57.15,125.73,0,bottom
