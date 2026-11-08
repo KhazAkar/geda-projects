@@ -1,0 +1,20 @@
+Copyright (c) 2016 KhazAkar
+
+Original hardware design contributions are made available under the
+CERN Open Hardware Licence Version 2 - Strongly Reciprocal.
+SPDX-License-Identifier: CERN-OHL-S-2.0
+
+Source location: https://gitlab.com/r3xxar/geda-projects
+
+The grant covers original hardware design contributions only. Imported
+KiCad symbols, footprints and library definitions, including embedded
+or cached copies, remain under their own terms. Manufacturer CAD,
+datasheets and other third-party material are not relicensed, and no
+permission to use otherwise unlicensed third-party material is implied.
+In particular, SoundCard/Datasheets/ and the BJTpreamp/BC547B.lib
+device model are outside this original-design license grant.
+
+The previous MIT text is retained in LICENSES/geda-projects-legacy-MIT.txt
+as a record of earlier published license grants; those grants are
+not revoked. This notice offers original hardware designs under
+CERN-OHL-S-2.0 and does not relicense third-party material.
